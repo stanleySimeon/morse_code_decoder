@@ -1,0 +1,2 @@
+# morse_code_decoder
+During my vacation at the seaside, time after time I find old bottles with parchment inside. Out of curiosity, I look into the next bottle and see that there is a message written in Morse code. My curiosity grows even more - maybe I just found the lost treasure of the pirates! However, I'm getting tired of decrypting messages manually. Fortunately, I can program in Ruby and I can help myself by automating this process. I decided to write this program to decode the message.
